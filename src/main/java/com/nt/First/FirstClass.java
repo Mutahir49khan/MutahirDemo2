@@ -1,6 +1,6 @@
 package com.nt.First;
 
-public class FirstClass {
+public class FirstClass extends RuntimeException {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
