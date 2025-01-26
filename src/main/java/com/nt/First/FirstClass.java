@@ -6,7 +6,7 @@ public class FirstClass extends RuntimeException {
 		// TODO Auto-generated method stub
 	System.out.println("Bismillah My ist eclipse project ");
 	System.out.println("lets apply the ist commit ");
-
+    System.out.println("its for stash  completee ");
 
 	}
 
